@@ -50,10 +50,6 @@ Each entry captures:
 *Note:* Minor formatting cleanup was performed to ensure machine compatibility. No content was altered from the source.
 
 ---
-<p align="center">
-  <img src="./preview/tradingviewdoc.png" alt="Pine Script v6 MCP Reference" width="600"/>
-</p>
-
 # Pine Script v6 Structured Reference
 
 ## 📁 Files
